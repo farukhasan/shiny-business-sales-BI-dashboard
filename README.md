@@ -9,7 +9,7 @@ A  sales analytics dashboard built with R Shiny that provides interactive visual
 
 ## Application Screenshot
 
-![Sales Dashboard Landing Page](screenshot-landing-page.png)
+![Sales Dashboard Landing Page]([screenshot-landing-page.png](https://github.com/farukhasan/shiny-business-sales-BI-dashboard/blob/main/sales_dashboard.png))
 
 ## Features
 
